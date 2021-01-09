@@ -8,7 +8,7 @@ import OrderLocation from './OrderLocation';
 import { OrderLocationData } from './types'
 import OrderSummary from './OrderSummary';
 import Footer from '../Footer';
-import { checkIsSeleceted, formatPrice } from './helpers';
+import { checkIsSeleceted } from './helpers';
 import './styles.css'
 
 function Orders() {
